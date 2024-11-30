@@ -120,7 +120,7 @@ class ImageDisplayApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Image Viewer")
-        self.label = tk.Label(root, text="Waiting for images...", font=("Helvetica", 16))
+        self.label = tk.Label(root, text="Awaiting the demons...", font=("Helvetica", 16))
         self.label.pack(pady=10)
 
         # Placeholder for the image display
