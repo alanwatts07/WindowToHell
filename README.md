@@ -1,0 +1,68 @@
+# 🔥 WINDOW TO HELL 👿
+====================
+
+[!DEMONIC WARNING!]
+THIS AIN'T YOUR SUNDAY SCHOOL SLIDESHOW! 
+WITNESS THE UNHOLY STREAM OF PUMPFUN TOKENS AS THEY EMERGE FROM THE DIGITAL ABYSS! 
+
+## 🌋 UNHOLY FEATURES
+
+* 🖼️ REAL-TIME PORTAL TO DIGITAL DAMNATION
+* 🔮 STREAMS FRESH PUMPFUN TOKENS LIKE SOULS TO THE UNDERWORLD
+* ⚡ WEBSOCKET MAGIC DARKER THAN YOUR EX'S HEART
+* 💀 DEATH-PROOF SHUTDOWN (CTRL+C WON'T SAVE YOUR SOUL)
+
+## 🗡️ SUMMON THIS DEMON WITH
+
+```bash
+# YOUR MACHINE BETTER BE BLESSED WITH:
+🔥 Python 3.7+ (OLDER VERSIONS WILL BE SACRIFICED)
+😈 requirements.txt (THE DARK SCROLLS)
+```
+
+## 🩸 RITUAL INSTALLATION
+
+### 1️⃣ CLONE THE CURSED REPOSITORY
+```bash
+git clone <gateway-to-hell-url>
+cd <your-new-nightmare>
+```
+
+### 2️⃣ SUMMON THE DEPENDENCIES
+```bash
+pip install -r requirements.txt  # INVOKE THE DARK PACKAGES!
+```
+
+### 3️⃣ OPEN THE PORTAL
+```bash
+python main.py  # UNLEASH DIGITAL CHAOS! 
+```
+
+## 💀 TROUBLESHOOTING (FOR THE DAMNED)
+
+HELLISH ERROR | UNHOLY SOLUTION
+--------------|----------------
+`ConnectionError` | THE DEMONS CAN'T REACH YOU! CHECK YOUR PENTAGRAM... ERR, INTERNET!
+`ImportError` | YOU FORGOT THE SACRIFICIAL REQUIREMENTS! 
+`RuntimeError` | TOO MUCH EVIL FOR YOUR MORTAL MACHINE!
+
+## 🔮 POWERED BY:
+* PUMP PORTAL WEBSOCKET WITCHCRAFT ⚡
+* IPFS INCANTATIONS 🌐
+* TKINTER TORTURE CHAMBER 😱
+* LUNATICS ON PUMPFUN AND WHATEVER THEY DECIDE TO POST
+
+## 🦇 REAL TALK FROM THE DEPTHS
+Each token is a fresh soul emerging from the blockchain underworld! Watch as they materialize in real-time!
+
+## 🎃 PUMPFUN FEATURES
+* AUTO-RESIZES DEMONS TO 400x400 (PERFECT PORTAL SIZE)
+* RATE-LIMITED SUMMONING TO PREVENT DIMENSIONAL COLLAPSE
+* HANDLES TOKEN STREAMS FASTER THAN A DEMON ON REDBULL
+
+[!CURSED NOTE]
+If your machine starts floating or speaking in tongues, that's normal. 
+If your CPU starts bleeding, maybe take a break.
+
+## 👻 SUPPORT THE DARKNESS
+Drop a ⭐ if this portal served you well... or else! 
